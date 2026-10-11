@@ -16,7 +16,8 @@ public class Bloodbound : ModuleRules
 
         PublicIncludePaths.AddRange(new string[] {
             "Bloodbound",
-            "Bloodbound/Utils"
+            "Bloodbound/Utils",
+            "Bloodbound/Gameplay"
         });
 
         // Uncomment if you are using Slate UI
